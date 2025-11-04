@@ -1743,3 +1743,12 @@
 2025-10-27 19:08:11,974 [Worker-8: Launching inventoryApplication - InventoryApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\InfosysProject\InventoryManagement\inventoryApplication\src\test\resources
 2025-10-27 19:08:13,375 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dhara\git\repository\MyDemo\src\main\resources
 2025-10-27 19:08:13,381 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dhara\git\repository\MyDemo\src\test\resources
+2025-11-04 22:19:48,085 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-11-04 22:20:05,438 [Worker-16: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.infosys:inventoryApplication:0.0.1-SNAPSHOT @ D:\InfosysProjects\InventoryManagement\inventoryApplication\pom.xml.
+2025-11-04 22:20:08,170 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-04 22:20:08,200 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-04 22:20:08,216 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\InfosysProjects\InventoryManagement\inventoryApplication\src\test\resources
+2025-11-04 22:20:29,808 [Worker-4: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.infosys:inventoryApplication:0.0.1-SNAPSHOT @ D:\InfosysProjects\InventoryManagement\inventoryApplication\pom.xml.
+2025-11-04 22:20:39,980 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-04 22:20:40,002 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-04 22:20:40,008 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\InfosysProjects\InventoryManagement\inventoryApplication\src\test\resources
